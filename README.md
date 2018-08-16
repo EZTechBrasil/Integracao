@@ -3,9 +3,8 @@
 ## As 5 Etapas
 - 1º [Seja Bem Vindo] (http://eztech.ind.br/email/integracao/seja-bem-vindo/)
 - 2º [Informações Fundamentais] (http://eztech.ind.br/email/integracao/informacoes-fundamentais/)
-- 3º [Kit de Integração] (http://eztech.ind.br/email/integracao/kit-de-integracao/)
-- 4º [Suporte na Integração] (http://eztech.ind.br/email/integracao/suporte-na-integracao/)
-- 5º [Conclusão e Satisfação] (http://eztech.ind.br/email/integracao/conclusao/)
+- 3º [Suporte na Integração] (http://eztech.ind.br/email/integracao/suporte-na-integracao/)
+- 4º [Conclusão e Satisfação] (http://eztech.ind.br/email/integracao/conclusao/)
 
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/EZTechBrasil/Integracao/master/screenshot.png)
