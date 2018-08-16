@@ -1,6 +1,6 @@
 # E-mails de Integração
 
-## As 5 Etapas
+## As 4 Etapas
 - 1º [Seja Bem Vindo] (http://eztech.ind.br/email/integracao/seja-bem-vindo/)
 - 2º [Informações Fundamentais] (http://eztech.ind.br/email/integracao/informacoes-fundamentais/)
 - 3º [Suporte na Integração] (http://eztech.ind.br/email/integracao/suporte-na-integracao/)
