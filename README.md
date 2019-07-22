@@ -1,7 +1,7 @@
 # E-mails de Integração
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/EZTechBrasil/Integracao/master/screenshot.png)
+![screenshot](https://github.com/EZTechBrasil/Integracao/blob/master/screenshot2.png?raw=true)
 
 ## Como Enviar
 - Acesse o link onde está o e-mail.
